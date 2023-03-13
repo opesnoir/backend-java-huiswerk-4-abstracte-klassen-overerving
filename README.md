@@ -113,3 +113,4 @@ Het is uitdagender om jouw eigen stappenplan te maken, maar als je niet weet waa
 1. Bedenk of het mogelijk zou zijn om een abstracte klasse te implementeren in deze appplicatie. En zo ja, implementeer deze abstracte klasse dan in jouw project;
 2. Bedenk of het mogelijk zou zijn om één of meer abstracte methodes te implementeren. En zo ja, implementeer deze!
 3. Probeer een manier te vinden waardoor één Pokèmon twee verschillende types tegelijk zou kunnen zijn. Kun je dit implementeren?
+# backend-java-huiswerk-4-abstracte-klassen-overerving
